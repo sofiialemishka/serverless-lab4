@@ -1,0 +1,11 @@
+# Terraform state - НІКОЛИ не комітити!
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+terraform.tfvars
+
+# Lambda zip
+*.zip
+output.txt
