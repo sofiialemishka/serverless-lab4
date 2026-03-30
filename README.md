@@ -14,7 +14,7 @@
 | Метод | Endpoint | Опис |
 |-------|----------|------|
 | POST | `/grades` | Додати оцінку студента |
-| GET | `/grades/student/{id}` | Отримати оцінки студента із середнім балом https://mr960vvm63.execute-api.eu-central-1.amazonaws.com/grades/student/1 |
+| GET | `/grades/student/{id}` | Отримати оцінки студента із середнім балом https://mr960vvm63.execute-api.eu-central-1.amazonaws.com/grades/student/45 |
 
 ## Структура проєкту
 ```
