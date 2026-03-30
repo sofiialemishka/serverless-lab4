@@ -1,4 +1,4 @@
-# Terraform state - НІКОЛИ не комітити!
+# Terraform state 
 *.tfstate
 *.tfstate.*
 .terraform/
